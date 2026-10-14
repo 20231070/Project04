@@ -2,3 +2,6 @@
 “Team Leader: <손하민>”
  “Team Leader: <20231060>”
 “Project 04 version1 completed”
+“2nd Team Member: <한승우>”
+“2nd Team Member: <20231079>”
+“Project 04 version2 completed”
