@@ -6,3 +6,4 @@
 “2nd Team Member: <20231079>”
 “Project 04 version2 completed”
 3rd Team Member: <전수민>
+3rd Team Member: <20231070>
